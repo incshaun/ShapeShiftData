@@ -1,1 +1,1 @@
-Current version: https://raw.githack.com/incshaun/ShapeShiftData/master/Build/v0.00030/ShapeShift/index.html
+Current version: https://raw.githack.com/incshaun/ShapeShiftData/master/Build/v0.00031/ShapeShift/index.html
